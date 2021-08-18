@@ -1,5 +1,7 @@
 <img src="gintro.gif" width="100%">
-
+<p align='center'>
+<a href="https://www.linkedin.com/in/koustavpain/"><img height="30" src="linkedinicon.png?raw=true"></a>
+</p>
 <!--
 **Tukai-Dal/Tukai-Dal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
