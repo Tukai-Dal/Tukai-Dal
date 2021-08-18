@@ -15,5 +15,19 @@ I recently published my Master's thesis on Dalspace after working on two MITACS 
 
 ---
 
-Currently I am working on preparing an academic paper based on my Master's research work while applying for full time relevant work opportunities. I am also working on an awareness project to prevent current and prospective students in Halifax, Nova Scotia from getting scammed due to the current housing crisis.
+Currently, I am working on preparing an academic paper based on my Master's research work while applying for full time relevant work opportunities. I am also working on an awareness project to prevent current and prospective students in Halifax, Nova Scotia from getting scammed due to the current housing crisis.
+
+---
+🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50" style="vertical-align:top; margin:4px">
+<img src="https://dz2cdn1.dzone.com/storage/temp/10964169-natural-language-processing.png" alt="nlp" height="50" style="vertical-align:top; margin:4px">
+<img src="https://www.doulos.com/media/1108/deeplearning.jpg" alt="dl" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="c" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="50" style="vertical-align:top; margin:4px">
+
+
+</p>
+
 
