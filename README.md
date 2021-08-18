@@ -1,4 +1,4 @@
-<img src="gintro.gif" width="30px">
+<img src="gintro.gif">
 
 <!--
 **Tukai-Dal/Tukai-Dal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
