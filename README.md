@@ -1,6 +1,6 @@
-<img src="gintro.gif" width="100%">
+<img src="images/gintro.gif" width="100%">
 <p align='center'>
-<a href="https://www.linkedin.com/in/koustavpain/"><img height="30" src="icon.png"></a>
+<a href="https://www.linkedin.com/in/koustavpain/"><img height="30" src="images/icon.png"></a>
 </p>
 
 <p>
@@ -16,13 +16,13 @@ I recently published my Master's thesis on Dalspace after working on two MITACS 
 
 ---
 <p>
-<img height="50" align="right" src="https://www.ace-net.ca/wp-content/uploads/2018/02/logo-dal.png"></a> 
+<img height="95" align="right" src="images/working on something.jpg"></a> 
 Currently, I am working on preparing an academic paper based on my Master's research work while applying for full time relevant work opportunities. I am also working on an awareness project to prevent current and prospective students in Halifax, Nova Scotia from getting scammed due to the current housing crisis.
 </p>
 
 ---
 
-🧰 Languages and Tools:
+<p align="center">Tools and Languages</p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50" style="vertical-align:top; margin:4px">
 <img src="https://dz2cdn1.dzone.com/storage/temp/10964169-natural-language-processing.png" alt="nlp" height="50" style="vertical-align:top; margin:4px">
