@@ -8,16 +8,20 @@ I love to do research where my helpful findings end up being actively applied in
 </p>
 
 ---
-
+<p>
 <a href="https://dalspace.library.dal.ca/bitstream/handle/10222/80672/KoustavPain2021.pdf?sequence=1&isAllowed=y"><img height="50" align="left" src="https://www.ace-net.ca/wp-content/uploads/2018/02/logo-dal.png"></a> 
 
 I recently published my Master's thesis on Dalspace after working on two MITACS Canada research terms while attending Dalhousie University. 
+</p>
 
 ---
-
+<p>
+<img height="50" align="right" src="https://www.ace-net.ca/wp-content/uploads/2018/02/logo-dal.png"></a> 
 Currently, I am working on preparing an academic paper based on my Master's research work while applying for full time relevant work opportunities. I am also working on an awareness project to prevent current and prospective students in Halifax, Nova Scotia from getting scammed due to the current housing crisis.
+</p>
 
 ---
+
 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50" style="vertical-align:top; margin:4px">
