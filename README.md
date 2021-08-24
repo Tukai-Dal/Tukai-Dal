@@ -27,11 +27,13 @@ Currently, I am working on preparing an academic paper based on my Master's rese
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50" style="vertical-align:top; margin:4px">
 <img src="https://dz2cdn1.dzone.com/storage/temp/10964169-natural-language-processing.png" alt="nlp" height="50" style="vertical-align:top; margin:4px">
 <img src="https://www.doulos.com/media/1108/deeplearning.jpg" alt="dl" height="50" style="vertical-align:top; margin:4px">
+<img src="https://seofutura.com/wp-content/uploads/2019/11/Google-BERT-Update.jpg" alt="bert" height="50" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" height="50" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="c" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="50" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="50" style="vertical-align:top; margin:4px">
-
-
+<img src="https://js.agency/static/d3.png" alt="d3" height="50" style="vertical-align:top; margin:4px">
 </p>
 
 
