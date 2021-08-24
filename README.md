@@ -11,7 +11,7 @@ I love to do research where my helpful findings end up being actively applied in
 <p>
 <a href="https://dalspace.library.dal.ca/bitstream/handle/10222/80672/KoustavPain2021.pdf?sequence=1&isAllowed=y"><img height="50" align="left" src="https://www.ace-net.ca/wp-content/uploads/2018/02/logo-dal.png"></a> 
 
-I recently published my Master's thesis on Dalspace after working on two MITACS Canada research terms while attending Dalhousie University. 
+I recently published my Master's thesis on Dalspace after working on two MITACS Canada research terms while attending Dalhousie University. Click on the Dal logo to check it out.
 </p>
 
 ---
