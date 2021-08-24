@@ -16,7 +16,7 @@ I recently published my Master's thesis on Dalspace after working on two MITACS 
 
 ---
 <p>
-<img height="93" align="right" src="images/working-on-something-big.jpg"></a> 
+<img height="93" align="right" src="images/working-on-something.jpg"></a> 
 Currently, I am working on preparing an academic paper based on my Master's research work while applying for full time relevant work opportunities. I am also working on an awareness project to prevent current and prospective students in Halifax, Nova Scotia from getting scammed due to the current housing crisis.
 </p>
 
