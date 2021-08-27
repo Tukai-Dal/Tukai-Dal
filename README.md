@@ -11,7 +11,11 @@ I love to do research where my helpful findings end up being actively applied in
 <p>
 <a href="https://dalspace.library.dal.ca/bitstream/handle/10222/80672/KoustavPain2021.pdf?sequence=1&isAllowed=y"><img height="50" align="left" src="https://www.ace-net.ca/wp-content/uploads/2018/02/logo-dal.png"></a> 
 
-I recently published my Master's thesis on Dalspace after working on two MITACS Canada research terms while attending Dalhousie University. Click on the Dal icon to check it out.
+I recently published my Master's thesis on Dalspace after working on two MITACS Canada research terms while attending Dalhousie University. Click on the Dal icon to check it out in detail. 
+  
+  I worked as the lead researcher for the partner company to tackle the global challenge of HS code classification. I had the opportunity to work with the most complex, heavily unstructured and extremely noisy text data from Canadian trade terminals in form of EDI trade manifests. Using advanced NLP concepts first I developed novel approaches to handle HS code parsing of a large variety of EDI files. I also developed four shipper specific novel commodity description clean up approaches. On my final Mitacs term, utilizing Transfer learning in NLP, I came up with an HS classification approach able to overcome the risk and costs of HS misclassifications, randomness in the data, terminological gaps and problem of auto classifications when there are a large number of classes present (more than six thousand in this instance). I also came up with a new evaluation method to properly evaluate our model based on application area. Ensuring interpretability and scalability were key aspects during the entire development and experiment phase. Due to the technical feasibility the approach offers, it was adopted by the client in their production system. 
+  
+
 </p>
 
 ---
