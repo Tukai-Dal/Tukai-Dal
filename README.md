@@ -9,7 +9,7 @@ I love to do research where my helpful findings end up being actively applied in
 
 ---
 <p>
-<a href="https://dalspace.library.dal.ca/bitstream/handle/10222/80672/KoustavPain2021.pdf?sequence=1&isAllowed=y"><img height="50" align="left" src="https://www.ace-net.ca/wp-content/uploads/2018/02/logo-dal.png"></a> 
+<a href="https://dalspace.library.dal.ca/bitstream/handle/10222/80672/KoustavPain2021.pdf?sequence=1&isAllowed=y"><img height="50" align="left" src="https://cdn.dal.ca/content/dam/dalhousie/images/dept/communicationsandmarketing/01%20DAL%20FullMark-Blk.png.lt_9dc61ccd695321bd3d499967167ff304.res/01%20DAL%20FullMark-Blk.png"></a> 
 
 I recently published my Master's thesis on Dalspace after working on two MITACS Canada research terms while attending Dalhousie University. Click on the Dal icon to check it out in detail. 
   
